@@ -1,4 +1,4 @@
-extern crate clap;
+extern crate please_clap;
 extern crate reqwest;
 extern crate serde_json;
 extern crate regex;
